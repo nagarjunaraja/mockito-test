@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mockito-test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nraja
+Implementation-Vendor-Id: com.nagarjuna.mockito
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mockito-test
+Created-By: Maven Integration for Eclipse
+
